@@ -1,0 +1,12 @@
+TimeBase
+Copyright (c) 2025 hqh0728
+MIT License: LICENSES/TimeBase-MIT.txt
+
+Time Series Library (TSLib)
+Copyright (c) 2021 THUML @ Tsinghua University
+MIT License: LICENSES/TSLib-MIT.txt (file-specific exceptions apply)
+
+GluonTS (utils/timefeatures.py)
+Gluon Time Series
+Copyright 2018-2019 Amazon.com, Inc. or its affiliates. All Rights Reserved. 
+Apache License, Version 2.0: LICENSES/Apache-2.0.txt
